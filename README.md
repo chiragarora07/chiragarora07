@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a btech student studying in nit raipur and persuing btech in computer science and developing my technical skills side by side and aspiring to become full stack developer<br>
+B.Tech Computer Science student at NIT Raipur, actively developing strong technical skills and aspiring to become a Full Stack Developer. Passionate about building scalable web applications, learning modern technologies, and continuously improving through hands-on projects and problem-solving.<br>
 
 
 ## 🌐 Socials:
