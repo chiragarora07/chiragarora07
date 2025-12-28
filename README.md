@@ -1,5 +1,15 @@
 # 💫 About Me:
-B.Tech Computer Science student at NIT Raipur, actively developing strong technical skills and aspiring to become a Full Stack Developer. Passionate about building scalable web applications, learning modern technologies, and continuously improving through hands-on projects and problem-solving.<br>
+🎓 B.Tech CSE @ NIT Raipur
+
+💻 Aspiring Full Stack Developer
+
+🚀 Building scalable web applications
+
+📚 Learning modern technologies
+
+🛠️ Improving through hands-on projects & problem-solving
+
+🔥 Curious • Consistent • Growth-driven<br>
 
 
 ## 🌐 Socials:
