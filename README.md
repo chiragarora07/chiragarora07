@@ -1,6 +1,7 @@
 # 💫 About Me:
-🎓 B.Tech CSE @ NIT Raipur
-
+<ul>
+  <li>🎓 B.Tech CSE @ NIT Raipur</li>
+  
 💻 Aspiring Full Stack Developer
 
 🚀 Building scalable web applications
@@ -9,7 +10,9 @@
 
 🛠️ Improving through hands-on projects & problem-solving
 
-🔥 Curious • Consistent • Growth-driven<br>
+🔥 Curious • Consistent • Growth-driven
+</ul>
+<br>
 
 
 ## 🌐 Socials:
