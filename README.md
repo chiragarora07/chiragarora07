@@ -1,7 +1,7 @@
 # 💫 About Me:
 <ul>
   <li>🎓 B.Tech CSE @ NIT Raipur</li>
-  
+  </br>
   <li>💻 Aspiring Full Stack Developer</li>
   <li>🚀 Building scalable web applications</li>
   <li>📚 Learning modern technologies</li>
