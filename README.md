@@ -1,6 +1,5 @@
 # 💫 About Me:
 <ul>
-  </br>
   <li>🎓 B.Tech CSE @ NIT Raipur</li>
   </br>
   <li>💻 Aspiring Full Stack Developer</li>
@@ -12,7 +11,6 @@
   <li>🛠️ Improving through hands-on projects & problem-solving</li>
   </br>
   <li>🔥 Curious • Consistent • Growth-driven</li>
-  </br>
 </ul>
 <br>
 
